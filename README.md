@@ -13,6 +13,5 @@ Thanks
 
 references
 1. https://facebook.github.io/react-native/docs/tutorial
-2. https://github.com/jscomplete/react-native-essential-training
-3. https://www.tutorialspoint.com/typescript/
-4. https://www.tutorialspoint.com/es6
+2. https://www.tutorialspoint.com/typescript/
+3. https://www.tutorialspoint.com/es6
